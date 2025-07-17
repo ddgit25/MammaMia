@@ -63,7 +63,8 @@
             "domain": "com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
-            "OST_PROXY": "0"
+            "OST_PROXY": "0",
+            "url": "https://onlineserietv.com"
         },
         "AnimeWorld": {
             "url": "https://www.animeworld.ac",
