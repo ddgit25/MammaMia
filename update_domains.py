@@ -89,6 +89,7 @@ def update_json_file():
         'DDLStream': general_domains[6],
         'Guardaserie': general_domains[7],
         'GuardaHD': general_domains[8],
+        'Onlineserietv': general_domains[9],
         'AnimeWorld': general_domains[10],
         'SkyStreaming': general_domains[11],
         'DaddyLiveHD': general_domains[12],
