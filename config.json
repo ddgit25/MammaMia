@@ -63,7 +63,13 @@
             "domain": "com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
-            "OST_PROXY": "0"
+            "OST_PROXY": "1"
+        },
+        "Eurostreaming":{
+            "url": "https://eurostreaming.garden",
+            "enabled": "1",
+            "ES_ForwardProxy": "0",
+            "ES_PROXY": "1"
         },
         "AnimeWorld": {
             "url": "https://www.animeworld.ac",
@@ -73,11 +79,11 @@
         },
         "SkyStreaming": {
             "url": "https://www.alliance4creativity.com",
-            "enabled": "1"
+            "enabled": "0"
         },
         "DaddyLiveHD": {
             "url": "https://daddylivestream.com",
-            "enabled": "1"
+            "enabled": "0"
         }
     },
     "General": {
