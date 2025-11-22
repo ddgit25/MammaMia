@@ -4,6 +4,7 @@ from Src.Utilities.info import get_info_tmdb, is_movie, get_info_imdb
 import Src.Utilities.config as config
 import re
 import json
+import random
 from Src.API.extractors.hdplayer import hdplayer
 from Src.Utilities.loadenv import load_env  
 import logging
